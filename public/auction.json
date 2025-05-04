@@ -1,0 +1,65 @@
+[
+    {
+        "id": 1,
+        "title": "Vintage Leica M3 Camera",
+        "description": "A rare vintage camera with manual controls.",
+        "currentBidPrice": "2,850",
+        "timeLeft": "2 days left",
+        "bidsCount": 15,
+        "image": "https://i.ibb.co.com/jkYZqwxz/Bid1-min.png"
+    },
+    {
+        "id": 2,
+        "title": "1965 Gibson SG Standard Electric Guitar",
+        "description": "A high-quality acoustic guitar with a rich sound.",
+        "currentBidPrice": "6,700",
+        "timeLeft": "3 day left",
+        "bidsCount": 8,
+        "image": "https://i.ibb.co.com/KpbjXNDd/Bid2-min.png"
+    },
+    {
+        "id": 3,
+        "title": "Original Apple Macintosh 128K (1984)",
+        "description": "Easy for non-technical users to use, emphasizing ease of learning and a focus on user experience. ",
+        "currentBidPrice": "4,200",
+        "timeLeft": "1 days left",
+        "bidsCount": 25,
+        "image": "https://i.ibb.co.com/b56MJNd7/Bid3-min.png"
+    },
+    {
+        "id": 4,
+        "title": "Rolex Submariner 16610",
+        "description": "It combines timeless style, robust durability, and precision, making it the ultimate luxury dive watch",
+        "currentBidPrice": "8,900",
+        "timeLeft": "12 hours left",
+        "bidsCount": 20,
+        "image": "https://i.ibb.co.com/5Xk1TVkG/Bid4-min.png"
+    },
+    {
+        "id": 5,
+        "title": "First Edition 'The Great Gatsby' by F. Scott Fitzgerald",
+        "description": "A rare and valuable piece, this novel epitomizes the allure of the Jazz Age and remains a cornerstone of American literature.",
+        "currentBidPrice": "12,500",
+        "timeLeft": "5 days left",
+        "bidsCount": 10,
+        "image": "https://i.ibb.co.com/YTcdy1fZ/Bid5-min.png"
+    },
+    {
+        "id": 6,
+        "title": "Mid-Century Modern Eames Lounge Chair",
+        "description": "A true masterpiece of Mid-Century Modern style, offering both elegance and comfort for any space.",
+        "currentBidPrice": "3,800",
+        "timeLeft": "6 hours left",
+        "bidsCount": 12,
+        "image": "https://i.ibb.co.com/3ygyV7Xq/Bid6-min.png"
+    },
+    {
+        "id": 7,
+        "title": "Banksy Original Screen Print",
+        "description": " A rare and impactful work that captures the bold spirit of street art and its cultural significance.",
+        "currentBidPrice": "24,500",
+        "timeLeft": "4 days left",
+        "bidsCount": 12,
+        "image": "https://i.ibb.co.com/TBgPxXG4/Bid7-min.png"
+    }
+]
